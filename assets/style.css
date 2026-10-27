@@ -26,7 +26,7 @@
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 17px; line-height: 1.65; }
-img, video { max-width: 100%; display: block; }
+img, video { max-width: 100%; height: auto; display: block; }
 a { color: var(--accent); text-underline-offset: 3px; }
 a:hover { color: var(--accent-ink); }
 h1, h2, h3 { line-height: 1.25; margin: 0 0 .5em; letter-spacing: -.01em; }
@@ -90,7 +90,10 @@ section { padding: 56px 0; }
 .media.phone { background: none; box-shadow: none; max-width: 300px; margin-inline: auto; }
 .media.phone img { border-radius: 28px; box-shadow: var(--shadow); }
 
-/* features */
+/* features: text cards, two columns; the headline feature spans both */
+.feature-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 8px; }
+.feature-grid .feature.text-only { margin: 0; }
+.feature-grid .feature.headline { grid-column: 1 / -1; }
 .features { background: var(--bg-soft); }
 .feature { display: grid; grid-template-columns: 1.35fr 1fr; gap: 40px; align-items: center; padding: 36px 0; border-top: 1px solid var(--line); }
 .feature:first-of-type { border-top: 0; }
@@ -175,7 +178,7 @@ details p { color: var(--ink-2); }
   .lang .lang-list { grid-template-columns: 1fr 1fr; }
   .card, .feature.text-only { padding: 22px; }
   .strip img { width: 160px; }
-  .guide-grid, .guide-screen { grid-template-columns: 1fr; }
+  .guide-grid, .guide-screen, .feature-grid { grid-template-columns: 1fr; }
   .guide-shot { max-width: 300px; margin-inline: auto; width: 100%; }
   .pin { width: 22px; height: 22px; line-height: 22px; font-size: 12px; }
 }
