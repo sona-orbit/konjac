@@ -297,3 +297,21 @@ details p { color: var(--ink-2); }
 .hero-badge, [dir="rtl"] .hero-badge { top: auto; bottom: -22px; inset-inline-start: 50%; transform: translateX(-50%); }
 [dir="rtl"] .hero-badge { transform: translateX(50%); }
 @media (max-width: 560px) { .hero-badge, [dir="rtl"] .hero-badge { top: auto; bottom: -18px; } }
+
+/* Japanese-style additions: one caption per screen, scenes, the basics table */
+.h2-shot { margin: 0; display: grid; justify-items: center; gap: 30px; }
+.h2-cap { font-size: .95rem; color: var(--ink-2); text-align: center; max-width: 22em; }
+.h2-hero .h2-shot { gap: 40px; }
+.h2-body { margin-bottom: 0; }
+.h2-scenes { background: #fff; text-align: center; }
+.v2 .h2-scenes { padding: 72px 0; }
+.h2-scene-list { list-style: none; padding: 0; margin: 24px auto 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px 12px; max-width: 760px; }
+.h2-scene-list li { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 999px; padding: 8px 18px; font-weight: 500; }
+.h2-spec { background: #fff; }
+.h2-spec h2 { text-align: center; }
+.h2-spec-table { width: 100%; border-collapse: collapse; margin-top: 24px; font-size: 1rem; }
+.h2-spec-table th, .h2-spec-table td { text-align: start; padding: 14px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.h2-spec-table th { width: 8em; color: var(--ink-2); font-weight: 600; white-space: nowrap; }
+.h2-notes { margin: 18px 0 0; padding-inline-start: 1.2em; color: var(--ink-2); font-size: .92rem; }
+.h2-notes li { margin: .25em 0; }
+@media (max-width: 560px) { .h2-spec-table th { width: 6em; white-space: normal; } }
