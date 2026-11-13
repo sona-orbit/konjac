@@ -1,0 +1,23 @@
+[
+ {
+  "slug": "offline-face-to-face-translation-apps",
+  "date": "2026-11-14",
+  "langs": {
+   "zh-Hant": {
+    "title": "出國沒網路怎麼面對面翻譯？iPhone 離線對話翻譯 App 比較",
+    "desc": "出國點餐、問路剛好沒訊號？比較翻譯蒟蒻、Apple 翻譯、Google 翻譯、Papago 的面對面畫面、離線條件、常用句收藏與費用，附出發前要先下載的東西。",
+    "hero_alt": "小獨角獸坐在餐廳桌邊，桌上平放著一支手機，對面的店員低頭看著手機上的翻譯"
+   },
+   "zh-Hans": {
+    "title": "出国没网络怎么面对面翻译？iPhone 离线对话翻译 App 比较",
+    "desc": "出国点餐、问路刚好没讯号？比较翻译蒟蒻、Apple 翻译、Google 翻译、Papago 的面对面画面、离线条件、常用句收藏与费用，附出发前要先下载的东西。",
+    "hero_alt": "小独角兽坐在餐厅桌边，桌上平放著一支手机，对面的店员低头看著手机上的翻译"
+   },
+   "en": {
+    "title": "Offline Face-to-Face Translation Apps for iPhone Travel",
+    "desc": "Compare Konjac Translate, Apple Translate, Google Translate, and Papago for face-to-face conversations, offline use, saved phrases, and cost.",
+    "hero_alt": "A little unicorn sits at a restaurant table with a phone lying flat between them and a server, who looks down at the translation"
+   }
+  }
+ }
+]
