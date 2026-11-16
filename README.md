@@ -6,4 +6,4 @@ Served by GitHub Pages at https://sona-orbit.github.io/konjac/
 
 - Home, support and privacy pages in 20 languages (English at the root, others in their own folder)
 - Static HTML and CSS, no JavaScript, no build step on this repository
-- Contact: sona.orbit.hi@gmail.com
+- Published by Sona Orbit. Issues and pull requests are turned off.
