@@ -18,6 +18,26 @@
     "title": "Offline Face-to-Face Translation Apps for iPhone Travel",
     "desc": "Compare Konjac Translate, Apple Translate, Google Translate, and Papago for face-to-face conversations, offline use, saved phrases, and cost.",
     "hero_alt": "A little unicorn sits at a restaurant table with a phone lying flat between them and a server, who looks down at the translation"
+   },
+   "es": {
+    "title": "Apps de traducción cara a cara sin conexión para iPhone",
+    "desc": "Compara Gelatina Traductora, Traducir de Apple, Google Translate y Papago: conversación cara a cara, uso sin conexión, frases guardadas y coste.",
+    "hero_alt": "Un pequeño unicornio sentado a la mesa de un restaurante, con un teléfono plano entre él y un camarero, que mira la traducción"
+   },
+   "de": {
+    "title": "iPhone-Übersetzer offline: Gespräche auf Reisen im Vergleich",
+    "desc": "Übersetzungsgelee, Apple Übersetzen, Google Translate und Papago im Vergleich: persönliche Gespräche, Offline-Nutzung, gespeicherte Sätze und Kosten.",
+    "hero_alt": "Ein kleines Einhorn sitzt an einem Restauranttisch. Zwischen ihm und einer Servicekraft liegt ein Handy flach auf dem Tisch, und die Servicekraft schaut auf die Übersetzung"
+   },
+   "fr": {
+    "title": "Traduction hors ligne en face à face sur iPhone en voyage",
+    "desc": "Comparez Gelée Traductrice, Traduire d’Apple, Google Traduction et Papago : conversation en face à face, hors ligne, phrases enregistrées et coût.",
+    "hero_alt": "Une petite licorne est assise à une table de restaurant, avec un téléphone posé à plat entre elle et un serveur, qui regarde la traduction"
+   },
+   "pt-BR": {
+    "title": "Tradutor offline no iPhone: apps para conversar frente a frente",
+    "desc": "Compare Gelatina Tradutora, Tradutor da Apple, Google Tradutor e Papago em conversas frente a frente, uso offline, frases salvas e custo.",
+    "hero_alt": "Um pequeno unicórnio está sentado a uma mesa de restaurante, com um celular deitado entre ele e um garçom, que olha para a tradução"
    }
   }
  }
