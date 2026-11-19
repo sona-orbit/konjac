@@ -1,5 +1,47 @@
 [
  {
+  "slug": "japan-trip-offline-translation",
+  "date": "2026-11-19",
+  "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-19-japan-trip-offline-translation",
+  "langs": {
+   "zh-Hant": {
+    "title": "日本旅行翻譯 App 離線怎麼用？出發前下載、車站點餐問路實用句",
+    "desc": "去日本前先在 Wi‑Fi 下把日文下載好，沒網路也能翻譯。整理出發前要做的四件事、飛航模式下能用什麼，以及車站、餐廳、藥妝店、迷路和緊急時的實用句。",
+    "hero_alt": "小獨角獸坐在小麵店的吧檯前，把手機平放在檯面上給對面的店員看"
+   },
+   "zh-Hans": {
+    "title": "日本旅行翻译 App 离线怎么用？出发前下载、车站点餐问路实用句",
+    "desc": "去日本前先在 Wi‑Fi 下把日文下载好，没网络也能翻译。整理出发前要做的四件事、飞航模式下能用什么，以及车站、餐厅、药妆店、迷路和紧急时的实用句。",
+    "hero_alt": "小独角兽坐在小面店的吧台前，把手机平放在台面上给对面的店员看"
+   },
+   "en": {
+    "title": "Offline Japanese Translation for Your iPhone Trip to Japan",
+    "desc": "Download Japanese before your trip, then translate without internet. Get a pre-trip checklist and useful phrases for trains, restaurants, shopping, and emergencies.",
+    "hero_alt": "A little unicorn sits at a noodle shop counter with a phone laid flat for the server across the counter to see"
+   },
+   "es": {
+    "title": "Traducir japonés sin conexión en tu viaje a Japón",
+    "desc": "Descarga japonés antes de viajar y traduce sin internet. Prepara tu iPhone y consulta frases útiles para trenes, restaurantes, compras y emergencias.",
+    "hero_alt": "Un pequeño unicornio está sentado en la barra de una tienda de fideos, con un teléfono colocado en horizontal para que lo vea quien atiende al otro lado"
+   },
+   "de": {
+    "title": "Japanisch offline übersetzen: So bereitest du dein iPhone vor",
+    "desc": "Lade Japanisch vor deiner Reise herunter und übersetze ohne Internet. Mit Checkliste und Sätzen für Züge, Restaurants, Einkäufe und Notfälle.",
+    "hero_alt": "Ein kleines Einhorn sitzt an der Theke eines Nudelrestaurants. Sein Handy liegt flach auf der Theke, damit die Bedienung es sehen kann."
+   },
+   "fr": {
+    "title": "Traduire le japonais hors ligne sur iPhone pendant un voyage",
+    "desc": "Téléchargez le japonais avant de partir, puis traduisez sans internet. Préparez votre iPhone et retrouvez des phrases utiles pour voyager au Japon.",
+    "hero_alt": "Une petite licorne est assise au comptoir d’un restaurant de nouilles, avec un téléphone posé à plat pour que le serveur en face puisse le voir"
+   },
+   "pt-BR": {
+    "title": "Como traduzir japonês offline no iPhone durante uma viagem",
+    "desc": "Baixe o japonês antes da viagem e traduza sem internet. Veja o que preparar e frases úteis para trens, restaurantes, compras e emergências.",
+    "hero_alt": "Um pequeno unicórnio está no balcão de uma loja de macarrão, com o celular deitado para o atendente ver do outro lado"
+   }
+  }
+ },
+ {
   "slug": "offline-face-to-face-translation-apps",
   "date": "2026-11-14",
   "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-14-offline-face-to-face-translation-apps",
