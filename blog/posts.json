@@ -48,37 +48,37 @@
   "langs": {
    "zh-Hant": {
     "title": "用外文回訊息不知道怎麼說？先用母語打，翻譯鍵盤幫你換成更好的說法",
-    "desc": "回外國朋友或客戶的訊息時，先用自己的語言把意思寫清楚，切到翻譯鍵盤就翻好，還有 AI 寫的口語、禮貌、簡短三種說法可以挑。LINE、WhatsApp、Email 都能用，附設定步驟與隱私說明。",
+    "desc": "回外國朋友或客戶的訊息時，先用自己的語言把意思寫清楚，切到翻譯鍵盤就翻好，還有 AI 寫的口語、禮貌、簡短三種說法可以挑。大多數 App 的輸入框都能用，附設定步驟與隱私說明。",
     "hero_alt": "小獨角獸拿著手機坐在咖啡廳，手機下半部是鍵盤，上方的聊天泡泡正在換成另一種語言"
    },
    "zh-Hans": {
     "title": "用外文回消息不知道怎么说？先用母语打，翻译键盘帮你换成更好的说法",
-    "desc": "回外国朋友或客户的消息时，先用自己的语言把意思写清楚，切到翻译键盘就翻好，还有 AI 写的口语、礼貌、简短三种说法可以挑。LINE、WhatsApp、Email 都能用，附设置步骤与隐私说明。",
+    "desc": "回外国朋友或客户的消息时，先用自己的语言把意思写清楚，切到翻译键盘就翻好，还有 AI 写的口语、礼貌、简短三种说法可以挑。大多数 App 的输入框都能用，附设置步骤与隐私说明。",
     "hero_alt": "小独角兽拿著手机坐在咖啡厅，手机下半部是键盘，上方的聊天泡泡正在换成另一种语言"
    },
    "en": {
     "title": "Type in English, Reply in Any Language with iPhone Keyboard",
-    "desc": "Type messages in English first, switch to Konjac Translate keyboard, and pick casual, polite, or concise phrasing. Works in Messages, WhatsApp, and Mail.",
+    "desc": "Type messages in English first, switch to Konjac Translate keyboard, and pick casual, polite, or concise phrasing. Works in the text fields of most apps.",
     "hero_alt": "A little unicorn sits in a cafe holding a phone, with a keyboard on the lower half and a chat bubble above switching to another language"
    },
    "es": {
     "title": "Escribe en tu idioma y responde en cualquier lengua en iPhone",
-    "desc": "Escribe tus mensajes primero en tu idioma, cambia al teclado de Gelatina Traductora y elige un tono informal, formal o conciso. En Mensajes, WhatsApp y Mail.",
+    "desc": "Escribe tus mensajes primero en tu idioma, cambia al teclado de Gelatina Traductora y elige un tono informal, formal o conciso. Funciona en la mayoría de las apps.",
     "hero_alt": "Un pequeño unicornio sentado en una cafetería sostiene un teléfono, con un teclado en la mitad inferior y un bocadillo de chat arriba que cambia a otro idioma"
    },
    "de": {
     "title": "Auf Deutsch tippen, in jeder Sprache antworten: iPhone-Tastatur",
-    "desc": "Tippe Nachrichten auf Deutsch, wechsle zur Übersetzungsgelee-Tastatur und wähle locker, höflich oder prägnant. Für WhatsApp, Mail und Co.",
+    "desc": "Tippe Nachrichten auf Deutsch, wechsle zur Übersetzungsgelee-Tastatur und wähle locker, höflich oder prägnant. Funktioniert in den meisten Apps.",
     "hero_alt": "Ein kleines Einhorn sitzt in einem Café mit einem Smartphone in der Hand; auf der unteren Bildschirmhälfte ist eine Tastatur zu sehen und darüber eine Sprechblase, die in eine andere Sprache wechselt"
    },
    "fr": {
     "title": "Clavier iPhone : écrivez en français, répondez en toute langue",
-    "desc": "Écrivez en français, passez au clavier Gelée Traductrice et choisissez un ton décontracté ou poli. Fonctionne dans Messages et WhatsApp.",
+    "desc": "Écrivez en français, passez au clavier Gelée Traductrice et choisissez un ton décontracté ou poli. Fonctionne dans la plupart des apps.",
     "hero_alt": "Une petite licorne assise dans un café tient un téléphone, avec un clavier en bas et une bulle de discussion au-dessus traduisant dans une autre langue"
    },
    "pt-BR": {
     "title": "Teclado tradutor para iPhone: digite em português e envie",
-    "desc": "Digite em português, mude para o teclado Gelatina Tradutora e escolha tons casual, formal ou conciso. Funciona no WhatsApp, Mensagens e Mail.",
+    "desc": "Digite em português, mude para o teclado Gelatina Tradutora e escolha tons casual, formal ou conciso. Funciona na maioria dos apps.",
     "hero_alt": "Um pequeno unicórnio sentado em um café segurando um telefone, com um teclado na metade inferior e um balão de conversa acima mudando para outro idioma"
    }
   }
