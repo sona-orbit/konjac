@@ -57,29 +57,29 @@
     "hero_alt": "小独角兽拿著手机坐在咖啡厅，手机下半部是键盘，上方的聊天泡泡正在换成另一种语言"
    },
    "en": {
-    "title": "Type in English, Reply in Any Language with iPhone Keyboard",
-    "desc": "Type messages in English first, switch to Konjac Translate keyboard, and pick casual, polite, or concise phrasing. Works in the text fields of most apps.",
-    "hero_alt": "A little unicorn sits in a cafe holding a phone, with a keyboard on the lower half and a chat bubble above switching to another language"
+    "title": "iPhone Translation Keyboard: Type in Your Language First",
+    "desc": "Reply in another language by typing in English first. Switch keyboards to translate and pick casual, polite, or short AI rewrites in any app.",
+    "hero_alt": "A small unicorn sits in a cafe holding a phone, the keyboard at the bottom with chat bubbles above swapping into another language"
    },
    "es": {
-    "title": "Escribe en tu idioma y responde en cualquier lengua en iPhone",
-    "desc": "Escribe tus mensajes primero en tu idioma, cambia al teclado de Gelatina Traductora y elige un tono informal, formal o conciso. Funciona en la mayoría de las apps.",
-    "hero_alt": "Un pequeño unicornio sentado en una cafetería sostiene un teléfono, con un teclado en la mitad inferior y un bocadillo de chat arriba que cambia a otro idioma"
+    "title": "Teclado traductor para iPhone: escribe en tu idioma primero",
+    "desc": "Responde en otro idioma escribiendo primero en español. Cambia de teclado para traducir y elige opciones de IA informales, formales o cortas en cualquier app.",
+    "hero_alt": "Un pequeño unicornio sentado en una cafetería sostiene un teléfono, con el teclado abajo y bocadillos de chat arriba que cambian a otro idioma"
    },
    "de": {
-    "title": "Auf Deutsch tippen, in jeder Sprache antworten: iPhone-Tastatur",
-    "desc": "Tippe Nachrichten auf Deutsch, wechsle zur Übersetzungsgelee-Tastatur und wähle locker, höflich oder prägnant. Funktioniert in den meisten Apps.",
-    "hero_alt": "Ein kleines Einhorn sitzt in einem Café mit einem Smartphone in der Hand; auf der unteren Bildschirmhälfte ist eine Tastatur zu sehen und darüber eine Sprechblase, die in eine andere Sprache wechselt"
+    "title": "iPhone-Übersetzungstastatur: Tippe zuerst in deiner Sprache",
+    "desc": "Antworte in fremden Sprachen, indem du auf Deutsch tippst. Tastatur wechseln, übersetzen und in jeder App lockere, höfliche oder kurze KI-Varianten wählen.",
+    "hero_alt": "Ein kleines Einhorn sitzt in einem Café mit einem Smartphone, unten die Tastatur und darüber Chatblasen, die in eine andere Sprache wechseln"
    },
    "fr": {
-    "title": "Clavier iPhone : écrivez en français, répondez en toute langue",
-    "desc": "Écrivez en français, passez au clavier Gelée Traductrice et choisissez un ton décontracté ou poli. Fonctionne dans la plupart des apps.",
-    "hero_alt": "Une petite licorne assise dans un café tient un téléphone, avec un clavier en bas et une bulle de discussion au-dessus traduisant dans une autre langue"
+    "title": "Clavier traducteur iPhone : tapez d’abord dans votre langue",
+    "desc": "Répondez dans une autre langue en écrivant d'abord en français. Basculez de clavier pour traduire et choisir une variante IA décontractée, polie ou courte.",
+    "hero_alt": "Une petite licorne assise dans un café tient un téléphone, le clavier en bas et des bulles de discussion au-dessus se transformant dans une autre langue"
    },
    "pt-BR": {
-    "title": "Teclado tradutor para iPhone: digite em português e envie",
-    "desc": "Digite em português, mude para o teclado Gelatina Tradutora e escolha tons casual, formal ou conciso. Funciona na maioria dos apps.",
-    "hero_alt": "Um pequeno unicórnio sentado em um café segurando um telefone, com um teclado na metade inferior e um balão de conversa acima mudando para outro idioma"
+    "title": "Teclado tradutor para iPhone: digite no seu idioma antes",
+    "desc": "Responda em outro idioma digitando em português primeiro. Mude de teclado para traduzir e escolha reescritas por IA casuais ou formais.",
+    "hero_alt": "Um pequeno unicórnio sentado em um café segurando um telefone, com o teclado embaixo e balões de conversa acima mudando para outro idioma"
    }
   }
  },
