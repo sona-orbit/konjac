@@ -1,5 +1,47 @@
 [
  {
+  "slug": "iphone-face-to-face-translation",
+  "date": "2026-11-20",
+  "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-20-iphone-face-to-face-translation",
+  "langs": {
+   "zh-Hant": {
+    "title": "iPhone 面對面翻譯怎麼用？手機擺法、輪流說話與吵雜時的做法",
+    "desc": "iPhone 面對面翻譯一步步教：手機怎麼擺、誰先說、怎麼輪流，以及店裡太吵、對方講太快時怎麼辦。附 iPhone 內建翻譯、Google 翻譯與翻譯蒟蒻的開法。",
+    "hero_alt": "小獨角獸和飯店櫃檯人員隔著櫃檯，手機平放在兩人中間，雙方都低頭看著自己那一側的畫面"
+   },
+   "zh-Hans": {
+    "title": "iPhone 面对面翻译怎么用？手机摆法、轮流说话与吵杂时的做法",
+    "desc": "iPhone 面对面翻译一步步教：手机怎么摆、谁先说、怎么轮流，以及店里太吵、对方讲太快时怎么办。附 iPhone 内建翻译、Google 翻译与翻译蒟蒻的开法。",
+    "hero_alt": "小独角兽和饭店柜台人员隔著柜台，手机平放在两人中间，双方都低头看著自己那一侧的画面"
+   },
+   "en": {
+    "title": "How to Use Face-to-Face Translation on iPhone",
+    "desc": "Learn where to place your iPhone, how to take turns, and what to do in a noisy place. Includes steps for Apple Translate, Google Translate, and Konjac Translate.",
+    "hero_alt": "A little unicorn and a hotel desk clerk look down at their sides of a phone lying flat between them on the counter"
+   },
+   "es": {
+    "title": "Cómo traducir conversaciones cara a cara con el iPhone",
+    "desc": "Aprende dónde colocar el iPhone, cómo turnarte y qué hacer si hay ruido. Pasos para Traducir de Apple, el Traductor de Google y Gelatina Traductora.",
+    "hero_alt": "Un pequeño unicornio y un recepcionista de hotel miran cada uno su lado de un teléfono colocado sobre el mostrador entre ambos"
+   },
+   "de": {
+    "title": "Gespräche auf dem iPhone direkt übersetzen: So geht’s",
+    "desc": "So legst du dein iPhone für ein übersetztes Gespräch hin, wechselst dich beim Sprechen ab und kommst mit Lärm zurecht. Mit Schritten für drei Apps.",
+    "hero_alt": "Ein kleines Einhorn und eine Person am Hotelempfang schauen auf ihre Seiten eines Telefons, das flach zwischen ihnen auf dem Tresen liegt"
+   },
+   "fr": {
+    "title": "Comment traduire une conversation face à face sur iPhone",
+    "desc": "Où poser votre iPhone, comment parler à tour de rôle et que faire dans le bruit. Étapes pour Traduire, Google Traduction et Gelée Traductrice.",
+    "hero_alt": "Une petite licorne et un réceptionniste d’hôtel regardent chacun leur côté d’un téléphone posé à plat entre eux sur le comptoir"
+   },
+   "pt-BR": {
+    "title": "Como traduzir conversas cara a cara no iPhone",
+    "desc": "Saiba onde colocar o iPhone, como alternar as falas e o que fazer em lugares barulhentos. Veja os passos no Traduzir, Google Tradutor e Gelatina Tradutora.",
+    "hero_alt": "Um pequeno unicórnio e uma recepcionista de hotel olham para seus lados de um celular deitado no balcão entre eles"
+   }
+  }
+ },
+ {
   "slug": "japan-trip-offline-translation",
   "date": "2026-11-19",
   "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-19-japan-trip-offline-translation",
