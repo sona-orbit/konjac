@@ -361,3 +361,7 @@ details p { color: var(--ink-2); }
   .pin { border-color: #2a2433; box-shadow: 0 2px 6px rgba(0, 0, 0, .5); }
   .h2-cta img, .app-icon { box-shadow: 0 0 0 1px rgba(255, 255, 255, .1), var(--shadow); }
 }
+
+.h2-more { margin: 22px 0 0; font-weight: 600; }
+.h2-more a { color: var(--accent, #7a57b8); text-decoration: none; }
+.h2-more a:hover { text-decoration: underline; }
