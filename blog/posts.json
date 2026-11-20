@@ -42,6 +42,48 @@
   }
  },
  {
+  "slug": "iphone-translation-keyboard",
+  "date": "2026-11-20",
+  "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-20-iphone-translation-keyboard",
+  "langs": {
+   "zh-Hant": {
+    "title": "iPhone 翻譯鍵盤怎麼用？在 LINE 裡選取或複製，切過去就翻好",
+    "desc": "用翻譯鍵盤在 LINE、WhatsApp、Email 裡直接翻譯：選取自己打的字一鍵換成外文，複製對方的訊息就看到中文和回覆建議。附設定步驟、「允許貼上」怎麼不再跳出，以及隱私說明。",
+    "hero_alt": "小獨角獸拿著手機坐在咖啡廳，手機下半部是鍵盤，上方的聊天泡泡正在換成另一種語言"
+   },
+   "zh-Hans": {
+    "title": "iPhone 翻译键盘怎么用？在 LINE 里选取或复制，切过去就翻好",
+    "desc": "用翻译键盘在 LINE、WhatsApp、Email 里直接翻译：选取自己打的字一键换成外文，复制对方的消息就看到中文和回复建议。附设置步骤、“允许贴上”怎么不再跳出，以及隐私说明。",
+    "hero_alt": "小独角兽拿著手机坐在咖啡厅，手机下半部是键盘，上方的聊天泡泡正在换成另一种语言"
+   },
+   "en": {
+    "title": "How to Use an iPhone Translation Keyboard in Any App",
+    "desc": "Translate in LINE, WhatsApp, or email with a keyboard: replace selected text with foreign languages, paste incoming messages to read, and fix paste prompts.",
+    "hero_alt": "A small unicorn sitting in a cafe looking at a phone, with a keyboard on the lower screen and chat bubbles changing into another language above"
+   },
+   "es": {
+    "title": "Cómo usar un teclado traductor en el iPhone en cualquier app",
+    "desc": "Traduce en WhatsApp o correo con el teclado: sustituye texto por otros idiomas, lee mensajes copiados y evita avisos de pegar.",
+    "hero_alt": "Un pequeño unicornio sentado en una cafetería mirando un teléfono, con un teclado en la parte inferior de la pantalla y bocadillos de chat que cambian de idioma arriba"
+   },
+   "de": {
+    "title": "iPhone-Übersetzungstastatur in jeder App richtig nutzen",
+    "desc": "Übersetze direkt in WhatsApp, LINE oder Mail: Text markieren, Tastatur öffnen und ersetzen. Eingehende Nachrichten einfach kopieren und verstehen.",
+    "hero_alt": "Ein kleines Einhorn sitzt in einem Café und schaut auf ein Smartphone. Unten ist eine Tastatur zu sehen, oben verwandeln sich Sprechblasen in eine andere Sprache."
+   },
+   "fr": {
+    "title": "Clavier de traduction iPhone : traduire dans toute app",
+    "desc": "Traduisez dans WhatsApp ou par e-mail avec un clavier : remplacez votre texte, lisez les messages reçus et réglez les alertes de collage.",
+    "hero_alt": "Une petite licorne assise dans un café regarde un téléphone, avec un clavier en bas de l'écran et des bulles de discussion qui changent de langue au-dessus"
+   },
+   "pt-BR": {
+    "title": "Como Usar o Teclado de Tradução no iPhone em Qualquer App",
+    "desc": "Traduza no WhatsApp, e-mail ou mensagens com o teclado: substitua o texto selecionado, leia mensagens recebidas e tire os avisos de colar.",
+    "hero_alt": "Um pequeno unicórnio sentado em um café olhando para o celular, com um teclado na parte inferior da tela e balões de conversa mudando para outro idioma acima"
+   }
+  }
+ },
+ {
   "slug": "japan-trip-offline-translation",
   "date": "2026-11-19",
   "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-19-japan-trip-offline-translation",
