@@ -47,39 +47,39 @@
   "run": "/Users/johnkeng/Works/自製 Apple APP/官網SEO/部落格/konjac/runs/2026-11-20-iphone-translation-keyboard",
   "langs": {
    "zh-Hant": {
-    "title": "用外文回訊息不知道怎麼說？先用母語打，翻譯鍵盤幫你換成更好的說法",
-    "desc": "回外國朋友或客戶的訊息時，先用自己的語言把意思寫清楚，切到翻譯鍵盤就翻好，還有 AI 寫的口語、禮貌、簡短三種說法可以挑。大多數 App 的輸入框都能用，附設定步驟與隱私說明。",
+    "title": "用母語寫一段，直接用對方的語言回覆：iPhone 翻譯鍵盤怎麼用",
+    "desc": "回外國朋友或客戶的訊息時，先用自己的語言把想說的話打出來，切到翻譯鍵盤就翻好，按「取代」就換成對方的語言送出；想換語氣還有 AI 的口語、禮貌、簡短說法。大多數 App 的輸入框都能用，附設定步驟與隱私說明。",
     "hero_alt": "小獨角獸拿著手機坐在咖啡廳，手機下半部是鍵盤，上方的聊天泡泡正在換成另一種語言"
    },
    "zh-Hans": {
-    "title": "用外文回消息不知道怎么说？先用母语打，翻译键盘帮你换成更好的说法",
-    "desc": "回外国朋友或客户的消息时，先用自己的语言把意思写清楚，切到翻译键盘就翻好，还有 AI 写的口语、礼貌、简短三种说法可以挑。大多数 App 的输入框都能用，附设置步骤与隐私说明。",
+    "title": "用母语写一段，直接用对方的语言回复：iPhone 翻译键盘怎么用",
+    "desc": "回外国朋友或客户的消息时，先用自己的语言把想说的话打出来，切到翻译键盘就翻好，按“取代”就换成对方的语言送出；想换语气还有 AI 的口语、礼貌、简短说法。大多数 App 的输入框都能用，附设置步骤与隐私说明。",
     "hero_alt": "小独角兽拿著手机坐在咖啡厅，手机下半部是键盘，上方的聊天泡泡正在换成另一种语言"
    },
    "en": {
-    "title": "iPhone Translation Keyboard: Type in Your Language First",
-    "desc": "Reply in another language by typing in English first. Switch keyboards to translate and pick casual, polite, or short AI rewrites in any app.",
-    "hero_alt": "A small unicorn sits in a cafe holding a phone, the keyboard at the bottom with chat bubbles above swapping into another language"
+    "title": "Write in Your Language, Reply in Theirs: How to Use an iPhone Translation Keyboard",
+    "desc": "Write a reply in your language, switch to the Konjac Translate keyboard, and replace it with a translation. Learn how to set it up and use it privately.",
+    "hero_alt": "A little unicorn sits in a café holding a phone, with a keyboard below chat bubbles changing into another language"
    },
    "es": {
-    "title": "Teclado traductor para iPhone: escribe en tu idioma primero",
-    "desc": "Responde en otro idioma escribiendo primero en español. Cambia de teclado para traducir y elige opciones de IA informales, formales o cortas en cualquier app.",
-    "hero_alt": "Un pequeño unicornio sentado en una cafetería sostiene un teléfono, con el teclado abajo y bocadillos de chat arriba que cambian a otro idioma"
+    "title": "Escribe en tu idioma y responde en el suyo: cómo usar un teclado traductor en iPhone",
+    "desc": "Escribe en tu idioma, cambia al teclado de Gelatina Traductora y sustituye tu texto por la traducción. Aprende a configurarlo y usarlo de forma privada.",
+    "hero_alt": "Un pequeño unicornio está sentado en una cafetería con un teléfono; debajo, un teclado muestra bocadillos de chat que cambian a otro idioma"
    },
    "de": {
-    "title": "iPhone-Übersetzungstastatur: Tippe zuerst in deiner Sprache",
-    "desc": "Antworte in fremden Sprachen, indem du auf Deutsch tippst. Tastatur wechseln, übersetzen und in jeder App lockere, höfliche oder kurze KI-Varianten wählen.",
-    "hero_alt": "Ein kleines Einhorn sitzt in einem Café mit einem Smartphone, unten die Tastatur und darüber Chatblasen, die in eine andere Sprache wechseln"
+    "title": "In deiner Sprache schreiben, in seiner antworten: So nutzt du eine Übersetzungstastatur auf dem iPhone",
+    "desc": "Schreib deine Antwort auf Deutsch und übersetze sie direkt im Textfeld. So richtest du die Tastatur von Übersetzungsgelee ein und nutzt sie privat.",
+    "hero_alt": "Ein kleines Einhorn sitzt mit einem Smartphone in einem Café; unter Sprechblasen, deren Sprache sich ändert, ist eine Tastatur zu sehen"
    },
    "fr": {
-    "title": "Clavier traducteur iPhone : tapez d’abord dans votre langue",
-    "desc": "Répondez dans une autre langue en écrivant d'abord en français. Basculez de clavier pour traduire et choisir une variante IA décontractée, polie ou courte.",
-    "hero_alt": "Une petite licorne assise dans un café tient un téléphone, le clavier en bas et des bulles de discussion au-dessus se transformant dans une autre langue"
+    "title": "Écrivez dans votre langue, répondez dans la sienne : utiliser un clavier de traduction sur iPhone",
+    "desc": "Rédigez dans votre langue, puis utilisez le clavier de Gelée Traductrice pour traduire votre réponse dans l’app où vous écrivez.",
+    "hero_alt": "Une petite licorne est assise dans un café, un téléphone à la main, avec un clavier sous des bulles de discussion qui changent de langue"
    },
    "pt-BR": {
-    "title": "Teclado tradutor para iPhone: digite no seu idioma antes",
-    "desc": "Responda em outro idioma digitando em português primeiro. Mude de teclado para traduzir e escolha reescritas por IA casuais ou formais.",
-    "hero_alt": "Um pequeno unicórnio sentado em um café segurando um telefone, com o teclado embaixo e balões de conversa acima mudando para outro idioma"
+    "title": "Escreva no seu idioma e responda no da outra pessoa: como usar um teclado tradutor no iPhone",
+    "desc": "Escreva no seu idioma, mude para o teclado da Gelatina Tradutora e substitua o texto pela tradução. Veja como configurar e usar com privacidade.",
+    "hero_alt": "Um pequeno unicórnio está sentado em um café com um celular nas mãos; abaixo, um teclado aparece sob balões de conversa que mudam de idioma"
    }
   }
  },
